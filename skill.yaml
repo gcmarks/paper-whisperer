@@ -1,0 +1,22 @@
+name: arxiv-paper-reader
+version: 1.0.0
+description: arXiv 论文深度研读报告生成器 - 下载 LaTeX 源码，提取图片，LLM 深度阅读，生成图文报告
+author: gcmarks
+license: MIT
+tags:
+  - arxiv
+  - paper
+  - latex
+  - llm
+  - research
+repository: https://github.com/gcmarks/arxiv-paper-reader
+skills:
+  - id: arxiv-latex-report
+    name: arXiv LaTeX 报告生成
+    description: 下载 arXiv 论文 LaTeX 源码，提取图片，生成图文报告
+    entry: arxiv-latex-report/SKILL.md
+  
+  - id: arxiv-deep-reader
+    name: arXiv 深度阅读
+    description: LLM 驱动的论文深度阅读，按分类生成研读笔记
+    entry: openclaw-skills-arxiv-reader/SKILL.md
