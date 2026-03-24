@@ -1,12 +1,15 @@
-# arXiv Paper Reader
+# Paper Whisperer 📚
 
-**OpenClaw AgentSkill** - arXiv 论文深度研读报告生成器
+**OpenClaw AgentSkill** - 深度论文研读，让论文对你耳语
+
+> *"Give me an arXiv link, I'll read it deeply for you."*
+
+![OpenClaw](https://img.shields.io/badge/OpenClaw-AgentSkill-blue?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3.10+-green?style=flat-square)
+![License](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)
+![Stars](https://img.shields.io/github/stars/gcmarks/paper-whisperer?style=flat-square&logo=github)
 
 为 [OpenClaw](https://github.com/openclaw/openclaw) 设计的论文阅读技能，自动下载 arXiv 论文 LaTeX 源码，提取图片，使用 LLM 生成深度研读报告。
-
-![OpenClaw](https://img.shields.io/badge/OpenClaw-AgentSkill-blue)
-![Python](https://img.shields.io/badge/Python-3.10+-green)
-![License](https://img.shields.io/badge/License-MIT-yellow)
 
 ## 效果展示
 
@@ -218,3 +221,33 @@ LLM 驱动的深度阅读，按论文分类生成研读笔记。
 ## License
 
 MIT
+---
+
+## ⭐ Star History
+
+如果这个 skill 对你有帮助，请给个 Star！
+
+[![Star History Chart](https://api.star-history.com/svg?repos=gcmarks/paper-whisperer&type=Date)](https://star-history.com/#gcmarks/paper-whisperer&Date)
+
+## 🤝 贡献
+
+欢迎提交 Issue 和 PR！
+
+1. Fork 本仓库
+2. 创建特性分支 (`git checkout -b feature/amazing-feature`)
+3. 提交更改 (`git commit -m 'Add amazing feature'`)
+4. 推送到分支 (`git push origin feature/amazing-feature`)
+5. 提交 Pull Request
+
+## 📮 上架 ClawHub
+
+要上架到 [ClawHub](https://clawhub.com)，请：
+
+1. Fork [openclaw/skills](https://github.com/openclaw/skills)
+2. 在 `skills/` 下创建 `paper-whisperer/` 目录
+3. 复制本仓库内容
+4. 提交 PR
+
+---
+
+Made with ❤️ for the OpenClaw community
