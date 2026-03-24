@@ -1,6 +1,6 @@
-name: arxiv-paper-reader
+name: paper-whisperer
 version: 1.0.0
-description: arXiv 论文深度研读报告生成器 - 下载 LaTeX 源码，提取图片，LLM 深度阅读，生成图文报告
+description: 深度论文研读 - 让论文对你耳语
 author: gcmarks
 license: MIT
 tags:
@@ -9,7 +9,8 @@ tags:
   - latex
   - llm
   - research
-repository: https://github.com/gcmarks/arxiv-paper-reader
+  - openclaw
+repository: https://github.com/gcmarks/paper-whisperer
 skills:
   - id: arxiv-latex-report
     name: arXiv LaTeX 报告生成

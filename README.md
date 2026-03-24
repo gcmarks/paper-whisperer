@@ -43,14 +43,14 @@
 ### 方式一：OpenClaw CLI
 
 ```bash
-openclaw skills add https://github.com/gcmarks/arxiv-paper-reader
+openclaw skills add https://github.com/gcmarks/paper-whisperer
 ```
 
 ### 方式二：手动安装
 
 ```bash
 cd ~/.openclaw/skills
-git clone https://github.com/gcmarks/arxiv-paper-reader.git
+git clone https://github.com/gcmarks/paper-whisperer.git
 cd arxiv-paper-reader/openclaw-skills-arxiv-reader
 pip install -r requirements.txt
 pip install "httpx[socks]"
