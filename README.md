@@ -32,9 +32,13 @@
 - ⚖️ **对比分析** - 与现有方法对比
 - ⚠️ **局限性** - 未解决问题
 
-### 示例报告
+### 报告预览
 
-[📥 下载示例 PDF](docs/sample-report.pdf) - OpenClaw 安全论文深度研读报告 (2603.12644)
+| 第 1 页 | 第 2 页 | 第 3 页 |
+|--------|--------|--------|
+| ![](docs/images/report-preview-1.png) | ![](docs/images/report-preview-2.png) | ![](docs/images/report-preview-3.png) |
+
+📥 [下载完整 PDF](docs/sample-report.pdf) (5.1MB)
 
 ---
 
